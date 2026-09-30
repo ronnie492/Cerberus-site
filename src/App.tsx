@@ -6,11 +6,19 @@ export default function App() {
     <main className="page">
       <section className="hero">
         <div className="hero-text">
-          <h1>Team [CERB]</h1>
-          <h3>Good luck Tank! You got this, ask me if you have any questions</h3>
+          <h1>TEAM CERBERUS</h1>
+          <h3>Welcome to Team Cerberus</h3>
           <p className="tagline">
-            A guild homepage in the making. React + TypeScript on Vite, a
-            Supabase back end, and automatic deploys through Vercel.
+            Team Cerberus is an up-and-coming PokeMMO community built around friendship, fun, and helping each other grow. Whether you're a veteran player, a dedicated shiny hunter, or just starting your journey, there's a place for you here.
+          </p>
+          <p className="tagline">
+            We enjoy spending time together through shiny hunting, catch events, tournaments, and community activities, while always being willing to lend a hand to our fellow members and newcomers.
+          </p>
+          <p className="tagline">
+            At the heart of our community is a dedicated group of shiny hunters working toward completing the Shiny Pokédex. We celebrate every new shiny, help each other with hunts, and enjoy the journey together — one encounter at a time.
+          </p>
+          <p className="tagline">
+            We're not just here to build a strong team; we're here to build a community we actually enjoy being part of.
           </p>
         </div>
         <PokemonSprite name="houndoom" shiny />
@@ -19,33 +27,9 @@ export default function App() {
       <SupabaseStatus />
 
       <section className="next">
-        <h2>Where to go next</h2>
-        <ol>
-          <li>
-            <code>docs/01-coding-agent-setup.md</code>: install a coding
-            agent so you have help with the rest.
-          </li>
-          <li>
-            <code>docs/02-github-setup.md</code>: create the GitHub account
-            and push this code.
-          </li>
-          <li>
-            <code>docs/03-vercel-setup.md</code>: create the Vercel account
-            and get the site online.
-          </li>
-          <li>
-            <code>docs/04-supabase-setup.md</code>: create the Supabase
-            project and its API keys.
-          </li>
-          <li>
-            <code>docs/05-connect-everything.md</code>: wire the three
-            together so every push deploys.
-          </li>
-          <li>
-            <code>docs/06-deploying-supabase.md</code>: apply the database
-            schema and edge functions.
-          </li>
-        </ol>
+        <h2>Join Team Cerberus</h2>
+        <p>Looking for a friendly and active PokeMMO community to call home?</p>
+        <p>Join Team Cerberus and become part of the pack.</p>
       </section>
 
       <footer className="footer">
