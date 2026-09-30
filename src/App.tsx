@@ -24,7 +24,7 @@ export default function App() {
         <PokemonSprite name="houndoom" shiny />
       </section>
 
-      <SupabaseStatus />
+      {/* <SupabaseStatus /> */}
 
       <section className="next">
         <h2>Join Team Cerberus</h2>

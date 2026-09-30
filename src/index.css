@@ -159,6 +159,10 @@ h1 {
 .hero-text {
   flex: 1 1 18rem;
   min-width: 0;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+  color: #fff;
 }
 
 /* Sprite card. The frame is a fixed size so the page does not jump when the
