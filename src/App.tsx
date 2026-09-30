@@ -1,6 +1,5 @@
 import { PokemonSprite } from './components/PokemonSprite'
-import { SupabaseStatus } from './components/SupabaseStatus'
-
+// import { SupabaseStatus } from './components/SupabaseStatus'
 export default function App() {
   return (
     <main className="page">
@@ -23,8 +22,6 @@ export default function App() {
         </div>
         <PokemonSprite name="houndoom" shiny />
       </section>
-
-     // import { SupabaseStatus } from './components/SupabaseStatus'
 
       <section className="next">
         <h2>Join Team Cerberus</h2>
