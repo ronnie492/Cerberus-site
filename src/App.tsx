@@ -33,7 +33,7 @@ export default function App() {
       <footer className="footer">
         Team Cerberus — PokeMMO Community · <a href="https://discord.com/invite/uk9BSbJ6xg" target="_blank" rel="noopener noreferrer">Join our Discord</a>
       </footer>
-    </footer>
+      
     </main >
   )
 }
