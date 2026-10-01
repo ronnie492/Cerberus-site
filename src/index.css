@@ -121,6 +121,12 @@ h1 {
   min-width: 0;
 }
 
+.next {
+  background: rgba(0, 0, 0, 0.55);
+  padding: 1.5rem 2rem;
+  border-radius: 12px;
+  color: #fff;
+}
 .next h2 {
   font-size: 0.75rem;
   font-weight: 600;

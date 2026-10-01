@@ -27,11 +27,13 @@ export default function App() {
         <h2>Join Team Cerberus</h2>
         <p>Looking for a friendly and active PokeMMO community to call home?</p>
         <p>Join Team Cerberus and become part of the pack.</p>
+        <p><a href="https://discord.com/invite/uk9BSbJ6xg" target="_blank" rel="noopener noreferrer">Join our Discord →</a></p>
       </section>
 
       <footer className="footer">
-        Handed over as-is. Start at <code>docs/00-start-here.md</code>.
+        Team Cerberus — PokeMMO Community · <a href="https://discord.com/invite/uk9BSbJ6xg" target="_blank" rel="noopener noreferrer">Join our Discord</a>
       </footer>
-    </main>
+    </footer>
+    </main >
   )
 }
